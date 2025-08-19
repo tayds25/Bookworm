@@ -1,6 +1,0 @@
-com\gabriel\librms\service\LibraryTrackerService.class
-com\gabriel\librms\transform\TransformLibraryTrackerService.class
-com\gabriel\librms\entity\LibraryTrackerData.class
-com\gabriel\librms\repository\LibraryTrackerDataRepository.class
-com\gabriel\librms\model\LibraryTracker.class
-com\gabriel\librms\transform\TransformLibraryTrackerServiceImpl.class
